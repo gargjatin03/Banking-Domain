@@ -3,8 +3,8 @@
 ### 🌟 Overview
 <br>
 
-SafeLend is a Finance Risk Analytics Dashboard that leverages Power BI visualization embedded inside a Next.js application.
-It enables decision-makers in the bank lending
+SafeLend is a Finance Risk **Analytics Dashboard** that leverages Power BI visualization embedded inside a Next.js application.
+It enables decision-makers in the bank lending.
 
 <br>
 
@@ -78,6 +78,14 @@ safelend-embed/
 │── .env.local         # Local environment variables (not committed) <br>
 │── package.json       # Dependencies & scripts <br>
 
+safelend-embed/
+│── app/               # Next.js App Router
+│   ├── layout.tsx     # Root layout
+│   ├── page.tsx       # Dashboard page with Power BI iframe
+│── public/            # Static assets
+│── .env.local         # Local environment variables (not committed)
+│── package.json       # Dependencies & scripts
+
 
 ## 📂 Project Files
 
@@ -96,7 +104,9 @@ safelend-embed/
 
 ## 🌐 Deploy on Vercel
 
-### 🔗 Live Demo: ![Visit Here](https://safe-lend.vercel.app/)
+### 🔗 Live Demo: [![Visit Here](https://img.shields.io/badge/Visit%20Here-blue?style=for-the-badge)](https://safe-lend.vercel.app/)
+
+
 
 
 
