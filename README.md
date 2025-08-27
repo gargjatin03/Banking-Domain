@@ -12,6 +12,7 @@ It enables decision-makers in the bank lending
 ---
 
 ## 📌 Problem Statement
+
 <br>
 
 Banks face significant risk of losing money when lending to customers who may default on loans. Developing a basic understanding of risk analytics helps identify high-risk customers and minimize financial losses.
@@ -23,6 +24,7 @@ This project demonstrates how data is used in banking to analyze customer behavi
 ---
 
 ## 📸 Screenshots
+
 <br>
 
 <img width="622" height="392" alt="image" src="https://github.com/user-attachments/assets/0f0bfec6-697a-4624-92e9-0d97a6a99e9e" />
@@ -43,6 +45,8 @@ This project demonstrates how data is used in banking to analyze customer behavi
 
 ## 🚀 Features
 
+<br>
+
 This project demonstrates an **end-to-end data analytics pipeline** using:  
 - **MySQL** 🗄️ → for storing and managing data  
 - **Jupyter Notebook (Python)** 📓 → for data cleaning, exploration, and analysis  
@@ -61,6 +65,7 @@ The purpose of this project is to show how raw data from a database can be trans
 ---
 
 ## 🛠️ Tools & Technologies  
+
 <br>
 
 - **Database** → MySQL  
@@ -102,5 +107,7 @@ safelend-embed/
 ✨ If you like this project, consider giving it a ⭐ on GitHub!
 
 ## Deploy on Vercel
-### 🔗 Live Demo:  [Visit SafeLend](https://safe-lend.vercel.app/)
+
+### 🔗 Live Demo: [![Visit SafeLend](https://img.shields.io/badge/🚀%20Visit%20SafeLend-SafeLend%20Dashboard-blue?style=for-the-badge&logo=vercel)](https://safe-lend.vercel.app/)
+
 
