@@ -43,27 +43,6 @@ This project demonstrates how data is used in banking to analyze customer behavi
 
 ---
 
-## 🚀 Features
-
-<br>
-
-This project demonstrates an **end-to-end data analytics pipeline** using:  
-- **MySQL** 🗄️ → for storing and managing data  
-- **Jupyter Notebook (Python)** 📓 → for data cleaning, exploration, and analysis  
-- **Power BI** 📊 → for building interactive dashboards
-
-✅ Built with Next.js 13 (App Router) for high performance <br>
-✅ TailwindCSS for sleek, responsive UI <br>
-✅ Environment variables for secure Power BI embed links <br>
-✅ Deployed on Vercel with continuous deployment from GitHub <br>
-
-
-The purpose of this project is to show how raw data from a database can be transformed into **insights and visualizations** useful for decision-making.  
-
-<br>
-
----
-
 ## 🛠️ Tools & Technologies  
 
 <br>
@@ -75,6 +54,13 @@ The purpose of this project is to show how raw data from a database can be trans
 - **Frontend Framework** → Next.js 13+
 - **Styling** → TailwindCSS
 - **Deployment** → Vercel
+
+✅ Built with Next.js 13 (App Router) for high performance <br>
+✅ TailwindCSS for sleek, responsive UI <br>
+✅ Environment variables for secure Power BI embed links <br>
+✅ Deployed on Vercel with continuous deployment from GitHub <br>
+
+The purpose of this project is to show how raw data from a database can be transformed into **insights and visualizations** useful for decision-making.  
 
 <br>
 
@@ -104,10 +90,12 @@ safelend-embed/
 
 ---
 
-✨ If you like this project, consider giving it a ⭐ on GitHub!
+#### ✨ If you like this project, consider giving it a ⭐ on GitHub!
+<br>
 
-## Deploy on Vercel
+## 🌐 Deploy on Vercel
 
-### 🔗 Live Demo: [![Visit SafeLend](https://img.shields.io/badge/🚀%20Visit%20SafeLend-SafeLend%20Dashboard-blue?style=for-the-badge&logo=vercel)](https://safe-lend.vercel.app/)
+### 🔗 Live Demo: [![Visit Here](https://img.shields.io/badge/🚀%20Visit%20Here-SafeLend%20Dashboard-blue?style=for-the-badge&logo=vercel)](https://safe-lend.vercel.app/)
+
 
 
