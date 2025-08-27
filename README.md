@@ -70,12 +70,12 @@ The purpose of this project is to show how raw data from a database can be trans
 <br> 
 
 safelend-embed/
-│── app/             &nbsp;&nbsp;&nbsp;&nbsp;   # Next.js App Router <br>
-│   ├── layout.tsx   &nbsp;&nbsp;&nbsp;&nbsp;   # Root layout <br>
-│   ├── page.tsx     &nbsp;&nbsp;&nbsp;&nbsp;   # Dashboard page with Power BI iframe <br>
-│── public/          &nbsp;&nbsp;&nbsp;&nbsp;   # Static assets <br>
-│── .env.local       &nbsp;&nbsp;&nbsp;&nbsp;   # Local environment variables (not committed) <br>
-│── package.json     &nbsp;&nbsp;&nbsp;&nbsp;   # Dependencies & scripts
+│── app/             `    `   # Next.js App Router <br>
+│   ├── layout.tsx   `    `   # Root layout <br>
+│   ├── page.tsx     `    `   # Dashboard page with Power BI iframe <br>
+│── public/          `    `   # Static assets <br>
+│── .env.local       `    `   # Local environment variables (not committed) <br>
+│── package.json     `    `   # Dependencies & scripts
 
 ## 📂 Project Files
 
@@ -87,9 +87,9 @@ safelend-embed/
 
 <br>
 
----
 
 #### ✨ If you like this project, consider giving it a ⭐ on GitHub!
+
 <br>
 
 ## 🌐 Deploy on Vercel
