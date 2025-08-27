@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SafLend
 
-## Getting Started
+🌟 Overview
 
-First, run the development server:
+SafeLend is a Finance Risk Analytics Dashboard that leverages Power BI visualization embedded inside a Next.js application.
+It enables decision-makers in the bank lending
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📌 Problem Statement
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<br>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+Banks face significant risk of losing money when lending to customers who may default on loans. Developing a basic understanding of risk analytics helps identify high-risk customers and minimize financial losses.
 
-To learn more about Next.js, take a look at the following resources:
+This project demonstrates how data is used in banking to analyze customer behavior, assess credit risk, and make informed lending decisions.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🔗 Live Demo: 
+
+🚀 Features
+
+This project demonstrates an **end-to-end data analytics pipeline** using:  
+- **MySQL** 🗄️ → for storing and managing data  
+- **Jupyter Notebook (Python)** 📓 → for data cleaning, exploration, and analysis  
+- **Power BI** 📊 → for building interactive dashboards
+
+✅ Built with Next.js 13 (App Router) for high performance
+✅ TailwindCSS for sleek, responsive UI
+✅ Environment variables for secure Power BI embed links
+✅ Deployed on Vercel with continuous deployment from GitHub
+
+
+The purpose of this project is to show how raw data from a database can be transformed into **insights and visualizations** useful for decision-making.  
+
+## 🛠️ Tools & Technologies  
+<br>
+
+- **Database** → MySQL  
+- **Programming** → Python (Pandas, Matplotlib, Seaborn)  
+- **Data Visualization** → Power BI  
+- **Environment** → Jupyter Notebook
+- **Frontend Framework** → Next.js 13+
+- **Styling** → TailwindCSS
+- **Deployment** → Vercel
+
+
+📸 Screenshots
+Dashboard View
+## 📂 Project Structure
+
+safelend-embed/
+│── app/               # Next.js App Router
+│   ├── layout.tsx     # Root layout
+│   ├── page.tsx       # Dashboard page with Power BI iframe
+│── public/            # Static assets
+│── .env.local         # Local environment variables (not committed)
+│── package.json       # Dependencies & scripts
+
+## 📂 Project Files
+
+- `BankEDA.ipynb/` → Jupyter Notebooks for data cleaning & analysis  
+- `datasets/` → MySQL dump or CSV files (sample data)  
+- `My Banking Dashboard.pbix/` → Power BI dashboard 
+- `requirements.txt` → Python libraries used  
+- `README.md` → Project documentation   
+
+
+
+✨ If you like this project, consider giving it a ⭐ on GitHub!
 
 ## Deploy on Vercel
+### 🔗 Live Demo:   [Vercel Platform](https://safe-lend.vercel.app/) 
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
