@@ -81,7 +81,7 @@ safelend-embed/
 
 
 
-## 📂 Project Files
+### 📂 Project Files
 
 - `BankEDA.ipynb/`             →  Jupyter Notebooks for data cleaning & analysis  
 - `datasets/`                  →  MySQL dump or CSV files (sample data)  
@@ -91,17 +91,14 @@ safelend-embed/
 
 <br>
 
-
-### ✨ If you like this project, consider giving it a ⭐ on GitHub!
-
-<br>
-
 ## 🌐 Deploy on Vercel
 
 ### 🔗 Live Demo:
 [![Visit Here](https://img.shields.io/badge/Visit%20Here-blue?style=for-the-badge)](https://safe-lend.vercel.app/)
 
+<br>
 
+### ✨ If you like this project, consider giving it a ⭐ on GitHub!
 
 
 
